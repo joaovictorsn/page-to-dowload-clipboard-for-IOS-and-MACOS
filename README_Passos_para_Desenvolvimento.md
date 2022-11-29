@@ -1,22 +1,23 @@
     Header:
-[ ]Criaar um background-image
-[ ]Colocar a imagem da logo
-[ ]Centralizar a imagem logo
+[X]Criaar um background-image
+[X]Colocar a imagem da logo
+[X]Centralizar a imagem logo
     Body:
-[ ]Antes de iniciar o tratamento e posicionamento dos blocos, posso e devo criar um font style e deixa-lo pronto para ser chamado quando necessário. Com o tipo da font, cor padrão para determinada chamada espaçamento entre letras.
-[ ]Em stylee na class para as fonts add as distâncias entre os txt.
+[X]Antes de iniciar o tratamento e posicionamento dos blocos, posso e devo criar um font style e deixa-lo pronto para ser chamado quando necessário. Com o tipo da font, cor padrão para determinada chamada espaçamento entre letras.
+[X]Em stylee na class para as fonts add as distâncias entre os txt.
 . First bock:
-[ ] Criar um h1 para " a history of everything..."
-[ ]Criar div para colocar o h1 e os elementos abaixo.
-[ ]Criar 2 buttoms to dowload.
-[ ]Colocar os 2 buttons na mesma div, para alinha-los lado a lado
+[X] Criar um h1 para " a history of everything..."
+[X]Criar div para colocar o h1 e os elementos abaixo.
+[X]Criar 2 buttoms to dowload.
+[X]Colocar os 2 buttons na mesma div, para alinha-los lado a lado
 . First block Styling:
-[ ]Alinhar os elementos a partir da primeira div em column.
-[ ]Colocar um espaçamento top do header.
-[ ]Alinhar o bloco no centro da página.
-[ ]Colocar um espaçamento entre h1 e o txt abaixo.
-[ ]Espaçar o txt com buttons.
-[ ]Dentro da div dos buttons, coloca-los em row e espaça-los um pouco entre
+[X]Alinhar os elementos a partir da primeira div em column.
+[X]Colocar um espaçamento top do header.
+[X]Alinhar o bloco no centro da página.
+[X]Colocar um espaçamento entre h1 e o txt abaixo.
+[X]Espaçar o txt com buttons.
+[ ]Dentro da div dos buttons, coloca-los em row e espaça-los um pouco entre.
+[]Criar os buttons
 
 . Second block:
 [ ]Add um h2 para o "keep track..."

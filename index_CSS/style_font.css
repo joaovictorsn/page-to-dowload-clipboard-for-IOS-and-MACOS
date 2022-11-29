@@ -1,9 +1,13 @@
 .font-style-01{
     font-size: 18px;
     text-align: center;
-    color: hsl(201, 11%, 66%)
+    color: hsl(201, 11%, 66%);
+    padding-top: 15px;
+    padding-bottom: 30px;
+
 }
 
 .font-style-02{
-    color: hsl(210, 10%, 33%)
+    color: hsl(210, 10%, 33%);
+    text-align: center;
 }
