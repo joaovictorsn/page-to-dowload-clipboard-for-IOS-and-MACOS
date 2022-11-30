@@ -58,30 +58,30 @@
 [X]Uma pequena margem a direita para espaçar os blocos menores.
 
 . Sixth block:
-[ ]Colocar as imagens
-[ ]Colocar as imagens em um msmo bloco
+[x]Colocar as imagens
+[X]Colocar as imagens em um msmo bloco
 . Sixth block Styling:
-[ ]Alinhar as imagens em row
-[ ]Espaça-las talvez com espace between ou space around
+[X]Alinhar as imagens em row
+[X]Espaça-las talvez com espace between ou space around
 
 . Seventh block:
-[ ]Criar um h2 para "clipboard..."
-[ ]Criar um bloco para clip..., txt e buttons
-[ ]Criar um bloco só para clip..., txt.
-[ ]Criar 2 buttons, podemos reaproveitar os buttons do first block, the same buttons
+[X]Criar um h2 para "clipboard..."
+[X]Criar um bloco para clip..., txt e buttons
+[X]Criar um bloco só para clip..., txt.
+[X]Criar 2 buttons, podemos reaproveitar os buttons do first block, the same buttons
 . Seventh block Styling:
-[ ]Alinhar o bloco em column
-[ ]Centralizar o bloco.
-[ ]Alinhar os buttons em row.
-[ ] Espaçar os buttons
+[X]Alinhar o bloco em column
+[X]Centralizar o bloco.
+[X]Alinhar os buttons em row.
+[X] Espaçar os buttons
 
 . footer
-[ ]Colocar a logo
-[ ]Colocar faq... como itens
-[ ]Colocar as imagens do face...
-[ ]Colocar os elementos do footer em block
-[ ]Colocar os itens em bloco
-[ ]Colocar as imagens em bloco
+[X]Colocar a logo
+[X]Colocar faq... como itens
+[X]Colocar as imagens do face...
+[X]Colocar os elementos do footer em block
+[X]Colocar os itens em bloco
+[Xolocar as imagens em bloco
 . foote styling:
 [ ]Alinhar os elementos como row
 [ ]Colocar a logo no canto esquerdo inferior da page, com um espaçamento da margem.
