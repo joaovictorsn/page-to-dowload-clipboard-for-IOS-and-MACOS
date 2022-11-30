@@ -7,7 +7,41 @@
 
 }
 
-.font-style-02{
+.font-style-03{
+    font-size: 16px;
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    padding-top: 15px;
+    padding-bottom: 30px;
+
+}
+
+.font-style-h01-h02{
     color: hsl(210, 10%, 33%);
     text-align: center;
+    inline-size: 650px;
+    align-self: center;
+}
+
+.font-style-h03{
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+    inline-size: 300px;
+    align-self: center;
+}
+
+.font-style-04{
+    font-size: 14px;
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    padding-top: 15px;
+    padding-bottom: 30px;
+
+}
+
+.font-style-h01-h02-block-05{
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+    inline-size: 300px;
+    align-self: center;
 }

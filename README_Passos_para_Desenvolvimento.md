@@ -16,47 +16,46 @@
 [X]Alinhar o bloco no centro da página.
 [X]Colocar um espaçamento entre h1 e o txt abaixo.
 [X]Espaçar o txt com buttons.
-[ ]Dentro da div dos buttons, coloca-los em row e espaça-los um pouco entre.
-[]Criar os buttons
+[X]Criar os buttons
+[X]Dentro da div dos buttons, coloca-los em row e espaça-los um pouco entre.
 
 . Second block:
-[ ]Add um h2 para o "keep track..."
-[ ]Criar um bloco para os elemento logo abaixo do "keep track..."
-[ ]Criar um bloco com a image e os txt a direita.
-[ ]Criar um bloco para os txt.
-[ ]Criar um h3 para as chamadas de texto.
+[X]Add um h2 para o "keep track..."
+[X]Criar um bloco para os elemento logo abaixo do "keep track..."
+[X]Criar um bloco para uma class para txt.
+[X]Criar um h3 para as chamadas de texto.
 . Second block Styling:
-[ ]Alinhar o bloco em column.
-[ ]Centralizar os txt keep... e clipborad...
-[ ]Alinhar a imagem em row com os txt a direita.
-[ ]Imagem pega aprox. 50% da page.
-[ ]Espaçar o bloco de txt da imagem.
-[ ]Alinhar o bloco de txt em column.
-[ ]Leve espaçemnto do bloco de txt com a parte de cima do bloco pai.
+[X]Alinhar o bloco em column.
+[X]Centralizar os txt keep... e clipborad...
+[X]Alinhar a imagem em row com os txt a direita.
+[X]Imagem pega aprox. 50% da page.
+[X]Espaçar o bloco de txt da imagem.
+[X]Alinhar o bloco de txt em column.
+[X]Leve espaçamento do bloco de txt com a parte de cima do bloco pai.
 
 . Third block
-[ ]Criar um bloco para o txt e a imagem
-[ ]Colocar a imagem
+[X]Criar um bloco para o txt e a imagem
+[X]Colocar a imagem
 . Third block Styling:
-[ ]Colocar os elementos em column
-[ ]Centralizar os elementos na página.
-[ ]Margin bottom da imagem para o elemento abiaxo ou do bloco para o elemento baixo.
+[X]Colocar os elementos em column
+[X]Centralizar os elementos na página.
+[X]Margin bottom da imagem para o elemento abiaxo ou do bloco para o elemento baixo.
 
 . Fourth block
-[ ]Criar um bloco para os 2 txt "supercharge..." e "we're..."
+[X]Criar um bloco para os 2 txt "supercharge..." e "we're..."
 . Fourth block Styling
-[ ]Alinhar em column
-[ ]Centralizar
+[X]Alinhar em column
+[X]Centralizar
 
 . Fifth block:
-[ ]Inserir as imagens
-[ ]Criar um bloco para os 3 blocos alinhados.
-[ ]Criar um bloco para cada conjunto de imagem, txt h3 e txt.
+[X]Inserir as imagens
+[X]Criar um bloco para os 3 blocos alinhados.
+[X]Criar um bloco para cada conjunto de imagem, txt h3 e txt.
 . Fifth block Styling:
-[ ]Alinhar o bloco maior em row.
-[ ]Centralizar esse bloco
-[ ]Alinhar os blocos em column.
-[ ]Uma pequena margem a direita para espaçar os blocos menores.
+[X]Alinhar o bloco maior em row.
+[X]Centralizar esse bloco
+[X]Alinhar os blocos em column.
+[X]Uma pequena margem a direita para espaçar os blocos menores.
 
 . Sixth block:
 [ ]Colocar as imagens
