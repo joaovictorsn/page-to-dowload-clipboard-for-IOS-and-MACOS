@@ -9,3 +9,9 @@
 .header-logo{
     height: 130px;
 }
+
+@media only screen and (max-width: 786px){
+    .header{
+        background-image: url(../images/bg-header-mobile.png);
+    }
+}

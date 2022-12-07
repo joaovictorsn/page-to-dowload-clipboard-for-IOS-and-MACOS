@@ -45,3 +45,26 @@
     inline-size: 300px;
     align-self: center;
 }
+
+@media only screen and (max-width: 786px){
+    .font-style-h01-h02{
+        inline-size: 300px;
+    }
+    .font-style-01{
+        inline-size: 300px;
+    }
+    .font-style-03{
+        inline-size: 300px;
+    }
+    .font-style-04{
+        inline-size: 300px;
+    }
+    .font-style-h01-h02-block-05{
+        inline-size: 300px;
+    }
+    .font-style-h03{
+        inline-size: 300px;
+    }
+
+
+}
